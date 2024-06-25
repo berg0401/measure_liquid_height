@@ -1,0 +1,51 @@
+========================
+OPTION 1 : CAMÉRA https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d405.html?_ga=2.96742495.1547271625.1718886791-705780088.1718886791
+
+-RÉSOLUTION : 1.4mm  en Z-depht (2% de la distance). En 2D 0.1mm à 70mm de distance.
+-PRIX : 272 US$
+
+-stratégie: a) Mesurer avec le laser de la camera sur la surface
+	    b) Mesurer en pixel sur le côté du pot de petri
+
+
+=======================
+OPTION 2 : Optical sensor LTF12UC2LDQ 
+
+
+-RÉSOLUTION : 0.3mm à 4mm... distance : 50mm à 7000mm
+-PRIX:  1020.26$
+
+-stratégie : blast sur le liquide. ATTTENTION : Enjeu de couleur : 
+90% White Target: 50 mm to 24000 mm
+18% Gray Target: 50 mm to 18000 mm
+6% Black Target: 50 mm to 11000 mm 
+Test de résolution faite avec un target blanc.
+======================
+OPTION 3 : https://www.digikey.ca/en/products/detail/preact/ASM-0022/20526564
+
+RÉSOLUTION : 6mm
+PRIX : 542.27 CAD$ 
+
+-stratégie : a) Mesurer avec le laser de la camera sur la surface
+	     b) Mesurer en pixel sur le côté du pot de petri
+=====================
+OPTION 4 : LIDAR : https://cdn.sparkfun.com/assets/3/d/5/4/c/f5911d_726a54fc4f6644bcbec0d9b00236ffda.pdf
+
+-RÉSOLUTION : 0.5mm à 50 mm de distance
+-PRIX : 352 $ 
+
+
+-stratégie : blast sur le liquide
+=====================
+OPTION 5 : LIDAR short distance https://omronfs.omron.com/en_US/ecb/products/pdf/en-z4d_c01.pdf 
+
+-RÉSOLUTION : 10uM à 5mm
+-PRIX : 120$ $ 
+
+
+-stratégie : collé sur une tige qui peut aller très près de la surface
+
+====================
+
+
++- 1mm WORST. 0.5 mm idealement.

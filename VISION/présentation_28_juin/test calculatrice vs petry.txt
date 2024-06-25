@@ -1,0 +1,12 @@
+test calculatrice vs petry
+
+petry : 16mm
+Caculatrice : 17mm 
+Mesure de la calculatrice avec caméra : 15-16-17mm (410-409)
+Mesure de la petry avec caméra : 0mm
+
+Distance de la caméra jusqu'au sol: 425.93mm (ROS)
+Mesure de la caméra de sa position par rapport au sol : 425mm
+
+
+FABRICANT recommande un minimum depht de 450mm
